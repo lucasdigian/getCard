@@ -8,4 +8,4 @@ Este projeto é uma aplicação web desenvolvida em ReactJS que utiliza SCSS com
 
 Além disso, o projeto está hospedado na AWS Amplify, uma plataforma de hospedagem e CI/CD (Continuous Integration/Continuous Deployment) para aplicativos da web.
 
-Para visualizar o projeto já hospedado, clique aqui.
+Para visualizar o projeto já hospedado, [clique aqui](https://main.d2mzphd0dypmws.amplifyapp.com).
